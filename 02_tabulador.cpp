@@ -1,3 +1,14 @@
+/*
+    Algoritmos-em-C:
+    Essa biblioteca é produto de estudo e pesquisa pessoal da linguagem C, pode ser acessada em:
+    https://github.com/Dniel-BM/Algoritmos-em-C
+    
+    
+    02_tabulador.cpp
+    Definido operação aritmética e valor pelo usuário, o algoritmo retornará a tabuada de 1 a 10 correspondente a escolha do usuário.
+    nivel: elementar
+*/
+
 #include <stdio.h>
 #include <math.h>
 
