@@ -1,13 +1,18 @@
 /*
-01_mediaAlauno
-Algorítmo é citado no livro Algorítmos e Lógica de Programação em C de Silvio do Lago Pereira (pg 15)
-
-PROBLEMA 1.1
-Dadas as duas notas de um aluno, calcule sua média aritmética e informe a sua situação (aprovado ou reprovado),
-levando em conta que a média para aprovação deve ser pelo menos 6,0.
-
-Silvio Do Lago Pereira. Algoritmos e Lógica de Programação em C – Uma Abordagem Didática (Portuguese Edition) (p. 16).
-Editora Érica | Saraiva. Edição do Kindle.
+        Algoritmos-em-C:
+        made by:  https://github.com/Dniel-BM
+            
+        Essa biblioteca é produto de estudo e pesquisa pessoal da linguagem C, pode ser acessada em:
+        https://github.com/Dniel-BM/Algoritmos-em-C  
+         01_mediaAlauno
+        Algorítmo é citado no livro Algorítmos e Lógica de Programação em C de Silvio do Lago Pereira (pg 15)
+                
+        PROBLEMA 1.1
+        Dadas as duas notas de um aluno, calcule sua média aritmética e informe a sua situação (aprovado ou reprovado),
+        levando em conta que a média para aprovação deve ser pelo menos 6,0.
+                
+        Silvio Do Lago Pereira. Algoritmos e Lógica de Programação em C – Uma Abordagem Didática (Portuguese Edition) (p. 16).
+        Editora Érica | Saraiva. Edição do Kindle.
 */
 
 #include <stdio.h>
