@@ -16,7 +16,7 @@ link: https://github.com/Dniel-BM/Algoritmos-em-C/blob/main/mediaAluno-pg15.cpp
 
 
 --25/01/2025 #unreleased/unfinished #ongoing
-#Renamed files 01_mediaAluno.cpp
+*Renamed files 01_mediaAluno.cpp
 
 --24/01/2025 -#unreleased/unfinished #ongoing
 
