@@ -5,6 +5,8 @@ Coleção de algoritmos em C
 Total: 1
 
 ---------------------------------------------------------
+01_mediaAluno.cpp
+
 Problema 1.1 do Algoritmos em C - Silvio do Lago pg-15
 arquivo: 01_mediaAluno.cpp
 
