@@ -1,10 +1,13 @@
 /*
-PROBLEMA 1.1
-Dadas as duas notas de um aluno, calcule sua mÈdia aritmÈtica e informe a sua situaÁ„o (aprovado ou reprovado),
-levando em conta que a mÈdia para aprovaÁ„o deve ser pelo menos 6,0.
+01_mediaAlauno
+Algor√≠tmo √© citado no livro Algor√≠tmos e L√≥gica de Programa√ß√£o em C de Silvio do Lago Pereira (pg 15)
 
-Silvio Do Lago Pereira. Algoritmos e LÛgica de ProgramaÁ„o em C ñ Uma Abordagem Did·tica (Portuguese Edition) (p. 16).
-Editora …rica | Saraiva. EdiÁ„o do Kindle.
+PROBLEMA 1.1
+Dadas as duas notas de um aluno, calcule sua m√©dia aritm√©tica e informe a sua situa√ß√£o (aprovado ou reprovado),
+levando em conta que a m√©dia para aprova√ß√£o deve ser pelo menos 6,0.
+
+Silvio Do Lago Pereira. Algoritmos e L√≥gica de Programa√ß√£o em C ‚Äì Uma Abordagem Did√°tica (Portuguese Edition) (p. 16).
+Editora √ârica | Saraiva. Edi√ß√£o do Kindle.
 */
 
 #include <stdio.h>
