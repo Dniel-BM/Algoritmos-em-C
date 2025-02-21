@@ -2,7 +2,10 @@
 #Apenas com intuito educacional e de aprendizado
 
 Coleção de algoritmos em C
-Total: 2
+Total: 4
+
+Nivel elementar: 01, 02, 03, 04.
+Total: 4.
 
 ---------------------------------------------------------
 01_mediaAluno.cpp
@@ -38,6 +41,17 @@ nível: elementar
 link: https://github.com/Dniel-BM/Algoritmos-em-C/blob/600388cc31c18ac23da16db59d815f6147f0c871/03_comissaoVendas10perc
 ------------------------------------------------------------
 
+04_medidaSala.cpp
+
+Descricao:Dadas as medidas de uma sala em metros (comprimento e largura), informe a sua área em metros quadrados.
+
+Fonte: Silvio Do Lago Pereira. Algoritmos e Logica de Programacao em C – Uma Abordagem Didatica (Portuguese Edition) (p. 24). Editora Erica | Saraiva. Edicao do Kindle.
+
+nivel: elementar.
+
+link: https://github.com/Dniel-BM/Algoritmos-em-C/blob/fa51b28a26385844f49356c36f4c4b98f887b7b9/04_medidaSala.cpp
+
+---------------------------------------------------------------
 
 --25/01/2025 #unreleased/unfinished #ongoing
 * Renamed files 01_mediaAluno.cpp
