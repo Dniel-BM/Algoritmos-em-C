@@ -1,10 +1,11 @@
 /*
 04_medidaSala.cpp
 
-Descricao:Dadas as medidas de uma sala em metros (comprimento e largura), informe a sua área em metros quadrados.
+Descricao:Dadas as medidas de uma sala em metros (comprimento e largura), informe a sua Ã¡rea em metros quadrados.
 
-Fonte: Silvio Do Lago Pereira. Algoritmos e Logica de Programacao em C – Uma Abordagem Didatica (Portuguese Edition) (p. 24). Editora Erica | Saraiva. Edicao do Kindle.
+Fonte: Silvio Do Lago Pereira. Algoritmos e Logica de Programacao em C â€“ Uma Abordagem Didatica (Portuguese Edition) (p. 24). Editora Erica | Saraiva. Edicao do Kindle.
 
+nivel: elementar.
 */
 
 
