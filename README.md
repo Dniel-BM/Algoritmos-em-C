@@ -27,6 +27,17 @@ nivel: elementar
 link: https://github.com/Dniel-BM/Algoritmos-em-C/blob/main/02_tabulador.cpp
 ----------------------------------------------------------
 
+ 03_comissaoVendas10perc
+
+Descricao: Dado o total de vendas de um vendedor, calcule a sua comissao. Suponha que a comissao do vendedor seja de 10% do total de vendas.
+
+Fonte: Silvio Do Lago Pereira. Algoritmos e Logica de Programacao em C – Uma Abordagem Didatica (Portuguese Edition) (p. 24). Editora Erica | Saraiva. Edicao do Kindle.
+
+nível: elementar
+
+link: https://github.com/Dniel-BM/Algoritmos-em-C/blob/600388cc31c18ac23da16db59d815f6147f0c871/03_comissaoVendas10perc
+------------------------------------------------------------
+
 
 --25/01/2025 #unreleased/unfinished #ongoing
 * Renamed files 01_mediaAluno.cpp
