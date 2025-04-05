@@ -8,6 +8,8 @@ Fonte: Silvio Do Lago Pereira. Algoritmos e Logica de Programacao em C – Uma A
 
 nível: elementar
 
+link: https://github.com/Dniel-BM/Algoritmos-em-C/blob/main/05_calc-desconto.c
+
 */
 
 int main()
