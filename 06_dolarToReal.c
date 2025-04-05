@@ -8,6 +8,8 @@ nivel: elementar
 
 Fonte:
 Silvio Do Lago Pereira. Algoritmos e Lógica de Programação em C – Uma Abordagem Didática (Portuguese Edition) (p. 24). Editora Érica | Saraiva. Edição do Kindle.
+
+link: https://github.com/Dniel-BM/Algoritmos-em-C/blob/main/06_dolarToReal.c
  */
 
 int main(){
