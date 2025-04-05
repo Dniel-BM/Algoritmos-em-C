@@ -52,6 +52,16 @@ nivel: elementar.
 link: https://github.com/Dniel-BM/Algoritmos-em-C/blob/fa51b28a26385844f49356c36f4c4b98f887b7b9/04_medidaSala.cpp
 
 ---------------------------------------------------------------
+05_calc-desconto
+Dados o valor da compra e o percentual de desconto, calcule a ser pago.
+Considere que o percentual de desconto e um numero real entre 0 e 1
+
+Fonte: Silvio Do Lago Pereira. Algoritmos e Logica de Programacao em C – Uma Abordagem Didatica (Portuguese Edition) (p. 24). Editora Erica | Saraiva. Edicao do Kindle.
+
+nível: elementar
+
+link: https://github.com/Dniel-BM/Algoritmos-em-C/blob/main/05_calc-desconto.c
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 --25/01/2025 #unreleased/unfinished #ongoing
 * Renamed files 01_mediaAluno.cpp
@@ -60,5 +70,6 @@ link: https://github.com/Dniel-BM/Algoritmos-em-C/blob/fa51b28a26385844f49356c36
 
 * Created file
 
+--05/04/2025 -added file "05_calc-desconto.c"
 
 
