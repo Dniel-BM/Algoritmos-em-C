@@ -2,10 +2,10 @@
 #Apenas com intuito educacional e de aprendizado
 
 Coleção de algoritmos em C
-Total: 6
+Total: 7
 
-Nivel elementar: 01, 02, 03, 04, 05, 06.
-Total: 6.
+Nivel elementar: 01, 02, 03, 04, 05, 06, 07.
+Total: 7.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 01_mediaAluno.cpp
@@ -76,10 +76,24 @@ link: https://github.com/Dniel-BM/Algoritmos-em-C/blob/main/06_dolarToReal.c
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+07_ReajustePercentualSalarial
+
+07_ReajustePercentualSalarial.c
+
+fonte: Ex. 1.4 (Algoritmos e Logica de programacao em C - Silvio do Lago)
+
+Descrição:Dados um salario e um percentual de reajuste, calcule o salario reajustado.
+Considere que o percentual de reajuste e dado por um numero real entre 0 e 1.
+Por exemplo, se o reajuste for de 15%, o suario deve digitar o numero 0.15.
+
+nível: elementar
+
 --25/01/2025 #unreleased/unfinished #ongoing
 * Renamed files 01_mediaAluno.cpp
 
 --24/01/2025 -#unreleased/unfinished #ongoing
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * Created file
 
